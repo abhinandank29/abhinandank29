@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA , Web Development , Python(for machine learning)**
 
-- 📫 How to reach me **Gmail: abhikr2375@gmail.com 
+- 📫 How to reach me **Gmail: krabhi2024@gmail.com 
 LinkedIn: https://www.linkedin.com/in/abhinandank29**
 
 - ⚡ Fun fact **I think that I can achieve all the skills just by thinking 😂.**
